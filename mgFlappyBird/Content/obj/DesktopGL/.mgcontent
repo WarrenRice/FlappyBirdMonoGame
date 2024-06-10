@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/bg.png</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/bird1.png</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/bird2.png</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/bird3.png</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/File.spritefont</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/ground.png</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/ok.png</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/pipe.png</File>
+    <File>C:/Users/warre/OneDrive/Desktop/Poomarin_Warin_Assignment_2/FlappyBird_MonoGame/mgFlappyBird/Content/restart.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>scoreFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
